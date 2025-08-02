@@ -1,6 +1,15 @@
 # AEM-Log-Review
 Exporting a csv from a .ellog file and will output certain vehcile perforamce charactersitics. Power, energy, vehicle path, efficency, tire corner stiffness, lat G v. steering.
 
+How to export:
+
+Exporting CSV
+<img width="295" height="232" alt="image" src="https://github.com/user-attachments/assets/2b49e90a-4853-4f0a-8e2e-854968fd7c37" />
+
+Select the data range, frequency (ideally 200Hz), and Comma Seperated csv
+<img width="483" height="523" alt="image" src="https://github.com/user-attachments/assets/80de79e2-37e7-4044-92a8-4f6614e4e35b" />
+
+
 Example output file:
 
 G Force Traction Circle
