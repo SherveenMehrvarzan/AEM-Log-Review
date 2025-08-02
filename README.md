@@ -16,6 +16,7 @@ Efficency Graph
 
 
 kWh Graph
+
 <img width="904" height="565" alt="image" src="https://github.com/user-attachments/assets/0b6956fe-046e-41fc-9d01-b85f5e97db29" />
 
 
